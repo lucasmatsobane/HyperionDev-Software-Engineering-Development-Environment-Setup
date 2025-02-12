@@ -1,0 +1,36 @@
+The Largest of the numbers
+
+Request user to input positive numbers repeatedly
+ When user inputs zero
+    Print the largest number from the numbers that were input
+
+
+First name and "Hallo World"
+
+Request user's name
+Store input into variable called "first_name"
+	Print "first_name" and " Hello, World"
+	
+
+Arbitrary number of integers
+
+read numbers that are integers
+	Sum all the integers values
+		Then divide the sum of all the integers by the number of integers read
+Print the average 
+
+
+Grocery list
+
+Read the grocery list
+Print products still to be bought
+Sort the print in alphabetic order.
+
+
+Flow Chat
+
+Read X, Y
+Where S equals X + Y
+		A equals S divide by 2
+		P equals X multiply by Y
+Print S, A, P
